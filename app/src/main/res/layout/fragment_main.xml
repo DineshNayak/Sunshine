@@ -7,10 +7,11 @@
     tools:context=".MainActivity$PlaceholderFragment">
 
 
-   <ListView
+ <ListView
        android:id="@+id/listview_forecast"
        android:layout_width="match_parent"
        android:layout_height="match_parent"></ListView>
+
 
 </FrameLayout>
 
