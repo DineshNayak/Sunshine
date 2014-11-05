@@ -82,7 +82,7 @@ public class MainActivity extends ActionBarActivity {
                 "Mon - Sunny - 78/65",
                 "Tue - Cloudy - 68/60",
                 "Weds - Cloudy - 72/62",
-                "Thurs - Rain - 65/58"
+                "Thurs - Rain - 65/57"
         };
 
             List<String> weekForecast = new ArrayList<String>(Arrays.asList(forecastArray));
